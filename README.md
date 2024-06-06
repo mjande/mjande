@@ -31,10 +31,6 @@ Throughout my academic career, I've worked on several projects that showcase my 
 ![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
-    Languages: JavaScript, Python, Java, x86 Assembly, C, Rust
-    Frameworks and Tools: React, Node.js, Spring Boot, Git, OpenMP
-    Databases: PostgreSQL, MySQL, MongoDB
-
 ## 🖇️ Let's Connect!
 
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just have a chat about technology. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/matthew-joseph-anderson/)!
