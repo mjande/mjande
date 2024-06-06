@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/blob/main/mjande/mountain_header.png "Header")
+![Header](https://raw.githubusercontent.com/mjande/OWNER/OWNER/mountain_header.png "Header")
 
 ## Hi there 👋
 
