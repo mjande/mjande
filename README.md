@@ -15,6 +15,10 @@ Throughout my academic career, I've worked on several projects that showcase my 
 
 ## 🛠️ Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
 
     Languages: JavaScript, Python, Java, x86 Assembly, C, Rust
     Frameworks and Tools: React, Node.js, Spring Boot, Git, OpenMP
