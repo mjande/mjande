@@ -1,4 +1,4 @@
-![montain_header.png](https://github.com/mjande/mjande/blob/3c321510a1989cb0f7982021a740091eb63056b6/mountain_header.png) "Header")
+![montain_header.png](https://github.com/mjande/mjande/blob/3c321510a1989cb0f7982021a740091eb63056b6/mountain_header.png "Header")
 
 ## Hi there 👋
 
