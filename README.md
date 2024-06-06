@@ -14,7 +14,7 @@ Right now, I'm currently focusing on deepening my knowledge of Java and gaining 
 Throughout my academic career, I've worked on several projects that showcase my skills and interests. From building full-stack web applications to implementing command line tools, I love applying my knowledge to real-world problems. Some of my biggest projects are pinned on my profile: take a look!
 
 ## 🛠️ Skills
-![](https://img.shields.io/badge/Language-JavaScript-blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 
     Languages: JavaScript, Python, Java, x86 Assembly, C, Rust
     Frameworks and Tools: React, Node.js, Spring Boot, Git, OpenMP
