@@ -19,6 +19,17 @@ Throughout my academic career, I've worked on several projects that showcase my 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Library-OpenMP-informational?style=flat&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Databases-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Databases-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 
     Languages: JavaScript, Python, Java, x86 Assembly, C, Rust
     Frameworks and Tools: React, Node.js, Spring Boot, Git, OpenMP
