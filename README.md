@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/mjande/<OWNER>/<OWNER>/mountain_header.png "Header")](mountain_header.png)
+[![Header](https://raw.githubusercontent.com/mjande/<OWNER>/<OWNER>/mountain_header.png "Header")](mountain_header.png)]
 
 ## Hi there 👋
 
