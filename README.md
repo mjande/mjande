@@ -23,7 +23,6 @@ Throughout my academic career, I've worked on several projects that showcase my 
 
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=springboot&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Library-OpenMP-informational?style=flat&logoColor=white&color=blue)
 
