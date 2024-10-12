@@ -19,7 +19,6 @@ Throughout my academic career, I've worked on several projects that showcase my 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-x86_Assembly-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=blue)
 
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blue)
